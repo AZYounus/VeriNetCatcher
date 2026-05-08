@@ -22,3 +22,6 @@ TODO
 
 Initial release of VeriNetCatcher.
 Unoptimized algorithm for parsing and determining implicit nets.
+
+### 1.0.1
+Updated to work with any open Verilog file, not just mock file.
